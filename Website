@@ -65,7 +65,6 @@ margin-top: 2rem;
 </head>
 <body>
 
-
 <header>
 <img src="logo.png" alt="OSWARE Enterprise Logo" />
 <nav>
@@ -74,7 +73,6 @@ margin-top: 2rem;
 <a href="#contact">Contact</a>
 </nav>
 </header>
-
 
 <section class="hero">
 <h1>Welcome to OSWARE Enterprise</h1>
